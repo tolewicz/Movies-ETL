@@ -1,4 +1,4 @@
-# Movies-ETL
+# Movies_ETL
 ETL on Movies data with Python and SQL
 
 ## Project Overview
