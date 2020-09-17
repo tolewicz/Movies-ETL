@@ -1,5 +1,5 @@
 # Movies-ETL
-Movie_library_and_processing
+ETL on Movies data with Python and SQL
 
 ## Project Overview
 Write a program that provides cohesive and clean dataframe that includes: movie data and movie ratings. After cleanup and combining the incoming data the software two tables in SQL Server: movie data and movie ratings, that cam be analyzed with using SQL. The Software also creates combined data  frame of movies + ratings that can be used for further analysis.
